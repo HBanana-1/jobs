@@ -1,1 +1,1 @@
-My first time working with CSV and python! Combined data from Stack Overflow and Indeed to put it in a CSV file.
+Using Flask with Python to put the jobs in a database. Creates my own searching system in a website! Information can be downloaded as a CSV as well.
